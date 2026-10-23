@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# Binaries and IDE build directories
+bin/
+out/
+target/
+build/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
